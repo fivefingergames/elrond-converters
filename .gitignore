@@ -13,3 +13,6 @@
 
 # modules file
 node_modules
+
+out/
+dist/bundle.js
